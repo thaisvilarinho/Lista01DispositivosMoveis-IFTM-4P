@@ -1,0 +1,13 @@
+{
+  "name": "Lista01DispositivosMoveis-IFTM-4P",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thaisvilarinho/Lista01DispositivosMoveis-IFTM-4P.git",
+  "author": "ThaisVilarinho <thais.apvilarinho@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
