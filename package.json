@@ -5,9 +5,15 @@
   "repository": "https://github.com/thaisvilarinho/Lista01DispositivosMoveis-IFTM-4P.git",
   "author": "ThaisVilarinho <thais.apvilarinho@hotmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1"
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0"
+  },
+  "scripts": {
+    "tdev": "webpack --mode=development -w"
   }
 }
