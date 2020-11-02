@@ -1,5 +1,5 @@
 # Lista01DispositivosMoveis-IFTM-4P
-Este repositório contém a resolução de atividades da aula do dia 27/10/20, que foram disponibilizadas no link: https://www.notion.so/Lista-1-6796739aa7db46138cb820170e7fae57 na disciplina de Introdução a Programacao de dispositivos Móveis do 4º período no Curso Superior em Análise e Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro (IFTM) - Campus Ituiutaba.
+Este repositório contém a resolução de atividades da aula do dia 27/10/20, que foram disponibilizadas no link: https://www.notion.so/Lista-1-6796739aa7db46138cb820170e7fae57 na disciplina de Introdução a Programação de dispositivos Móveis do 4º período no Curso Superior em Análise e Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro (IFTM) - Campus Ituiutaba.
 
 Abaixo consta uma cópia do enunciado de cada atividade.
 
