@@ -1,11 +1,14 @@
-const delay = () => new Promise(resolve =>
-    setTimeout(resolve(1), 1000));
+import axios from 'axios';
 
-async function umPorSegundo() {
-    console.log(`${await delay()*1}s`);
-    console.log(`${await delay()*2}s`);
-    console.log(`${await delay()*3}s`);
-
+async function getUserFromGithub(user) {
+	let url = `https://api.github.com/users/${user}`;
+	try {
+		const { data } = await axios.get(url);
+		console.log(data);
+	} catch (error) {
+		console.log('Usuário não existe');
+	}
 }
 
-umPorSegundo(); 
+getUserFromGithub('lucasmoura-dev');
+getUserFromGithub('lucasmoura-dev12312312q');
